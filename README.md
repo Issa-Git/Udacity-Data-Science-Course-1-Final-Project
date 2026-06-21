@@ -56,7 +56,7 @@ The code produces:
 - Plots for numeric distributions, categorical counts, and scatter relationships.
 - A regression tree model predicting `ConvertedCompYearly`, including performance metrics and residual analysis.
 
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@kiendre.pro/welcome-to-the-2025-stack-overflow-developer-salary-survey-911d9e1f3492?postPublishedType=initial)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
